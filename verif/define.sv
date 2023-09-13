@@ -1,0 +1,9 @@
+`define SOURCES 1
+`define TARGETS 1
+`define PRIORITIES 8
+`define MAX_PENDING_COUNT 8
+`define HAS_THRESHOLD 1
+`define HAS_CONFIG_REG 1
+
+`define PRIORITY_BITS 3
+`define DATA_SIZE 32
