@@ -96,3 +96,5 @@ The scoreboard has three implementations ports. I made dummy registers in my sco
 
 ### Virtual Sequencer and Sequences:
 Virtual sequencer is defined as p sequencer in virtual seq class because I need to run sequences of particular kind on the particular sequencers. Virtual seq holds all the sequences of ahb_agent as well as ir_agent. Similarly, Virtual sequencer holds the sequencer of both  ahb_agent as well as ir_agent.
+
+![S2](assets/s9.png)
